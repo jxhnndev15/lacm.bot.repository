@@ -7,7 +7,7 @@ The commands are as follows:
 /session end -
 /session vote -
 /session shutdown -
-/sessiomn full -
+/session full -
 /session low -
 /erlc kills -
 /erlc players -
