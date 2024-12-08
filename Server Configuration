@@ -1,0 +1,15 @@
+module.exports = {
+    colors: {
+        succes: '#57F287',
+        error: "#ED4245",
+        normal: "#5865F2"
+    },
+
+    discord: {
+        id: process.env.DISCORD_ID,
+        prefix: "(user_selection)',
+        footer: `(get.server.name) - ${new Date().getFullYear()}`,
+        serverInvite: "https://discord.gg/larp2",
+    },
+
+(OPEN SOURCED) (USED BY LARP COMMUNITY)
